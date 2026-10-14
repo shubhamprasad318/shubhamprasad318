@@ -64,6 +64,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/sprasad6417/">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=sprasad6417&theme=dark&animated=false" alt="LeetCode badges earned by sprasad6417" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
