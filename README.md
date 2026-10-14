@@ -2,6 +2,7 @@
 <h3 align="center">Software Engineer · Full Stack & GenAI · Building LLM systems that ship to production</h3>
 
 <p align="center">
+  <a href="https://drive.google.com/file/d/1rTUPuz8Yqk19nSZCK7A2KeIXfZE4S_Vj/view"><img src="https://img.shields.io/badge/Resume-PDF-D14836?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shubham-prasad-320495196/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/sprasad6417/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/c26b27d1-94e0-4623-a42c-12f90f80dc0c"><img src="https://img.shields.io/badge/Google%20Cloud%20Skills-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
@@ -12,10 +13,11 @@
 ### 🚀 What I do
 
 - 🔭 **Software Engineer (Full Stack & GenAI) at Ethara AI**, Gurugram
-- 🧪 Build **LLM evaluation and training-data infrastructure**: Multi-SWE-bench style eval harnesses and SFT data pipelines (1,200+ environment images across 50+ repositories)
+- 🧪 Build **LLM evaluation and training-data infrastructure**: 1,200+ multi-arch Docker images across 16 languages for Multi-SWE-bench-aligned evaluation, an eval harness covering 50+ open-source projects, and an end-to-end SFT dataset pipeline
 - 🏗️ Single-handedly built Ethara's **internal operations platform**, serving 1,600+ users on Kubernetes (AWS EKS): onboarding, attendance, leave, assessments, project allocation and employee ranking
+- ⚡ Previously built a production **AI voice agent** (~2s end-to-end latency) and migrated LLM workflows to AWS Lambda, **cutting operational costs by 60%**
 - 🤖 Outside work: voice agents, multi-agent orchestration and RAG systems
-- 🧠 **700+ DSA problems** solved (650+ on LeetCode in C++, 365-day streak badge)
+- 🧠 **700+ DSA problems** solved (650+ on LeetCode in C++, 365-day streak badge) · 🏆 First Prize, iNeuron (PW) Hackathon
 - 🎓 B.E. Computer Science & Engineering, Nitte Meenakshi Institute of Technology, Bangalore (2021–2025)
 
 ---
@@ -44,6 +46,18 @@
 **Data:** PostgreSQL · MySQL · MongoDB
 
 **Cloud & DevOps:** AWS (EKS) · Kubernetes · Docker · Google Cloud
+
+---
+
+### 📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1rTUPuz8Yqk19nSZCK7A2KeIXfZE4S_Vj/view">
+    <img src="https://lh3.googleusercontent.com/d/1rTUPuz8Yqk19nSZCK7A2KeIXfZE4S_Vj=w800" width="420" alt="Resume of Shubham Prasad (click to open)" />
+  </a>
+  <br/>
+  <a href="https://drive.google.com/file/d/1rTUPuz8Yqk19nSZCK7A2KeIXfZE4S_Vj/view"><img src="https://img.shields.io/badge/View%20full%20resume-D14836?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+</p>
 
 ---
 
